@@ -1,8 +1,0 @@
-echo off
-title Japon Balığı Launcher - Plasmic
-color c
-cls
-:a
-node index.js
-goto a
-pause
