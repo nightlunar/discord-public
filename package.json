@@ -1,7 +1,4 @@
 {
-  "//1": "describes your app and its dependencies",
-  "//2": "https://docs.npmjs.com/files/package.json",
-  "//3": "updating this file will download and update your packages",
   "name": "exaybotkilitli",
   "version": "0.0.1",
   "author": "engin",
@@ -70,15 +67,15 @@
     "ytdl-core": "^4.5.0"
   },
   "engines": {
-    "node": "11.1"
+    "node": ">=16"
   },
   "repository": {
-    "url": "https://glitch.com/edit/#!/fork-first-quotation"
+    "url": "https://github.com/skybowdev/efso-bot.git"
   },
   "license": "MIT",
   "keywords": [
     "node",
     "glitch",
-    "express"
+    "discord"
   ]
 }
